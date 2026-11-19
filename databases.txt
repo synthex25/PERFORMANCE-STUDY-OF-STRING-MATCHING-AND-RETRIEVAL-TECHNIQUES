@@ -1,0 +1,4 @@
+Databases store and retrieve structured information for applications.
+Indexes improve database search performance by reducing unnecessary data
+scans. A query engine can combine indexing, filtering, and sorting to return
+relevant records efficiently.

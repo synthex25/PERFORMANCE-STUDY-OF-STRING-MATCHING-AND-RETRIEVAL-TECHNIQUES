@@ -1,0 +1,4 @@
+Robotics combines sensors, control algorithms, and mechanical systems.
+Robots use perception to understand their environment and planning algorithms
+to choose actions. Search and graph algorithms are useful for navigation,
+mapping, and collision-free path finding.

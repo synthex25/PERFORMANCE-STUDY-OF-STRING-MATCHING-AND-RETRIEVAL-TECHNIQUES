@@ -1,0 +1,5 @@
+Algorithms provide systematic methods for solving computational problems.
+An algorithmic design explains how an algorithm transforms input into output.
+KMP uses an LPS table for efficient pattern matching, while Rabin-Karp uses a
+rolling hash and character verification. Search algorithms are evaluated by
+their time complexity, space complexity, and behavior on different inputs.

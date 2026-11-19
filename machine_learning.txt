@@ -1,0 +1,4 @@
+Machine learning systems discover patterns from data and use them for
+predictions. Data preparation, feature selection, training, and evaluation
+are important steps in a learning workflow. Efficient data structures help
+manage datasets and support repeatable experiments.

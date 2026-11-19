@@ -1,0 +1,4 @@
+Data structures organize information so algorithms can process it efficiently.
+A trie supports prefix search and autocomplete by storing characters in a
+tree. Graphs, heaps, stacks, queues, and hash tables support different access
+patterns and are selected according to the problem requirements.
